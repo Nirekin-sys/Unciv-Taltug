@@ -1,0 +1,12 @@
+[
+	{
+		"name": "Ice Sanctuary",
+		"replaces": "Temple",
+		"uniqueTo": "Taltug",
+		"culture": 4,
+		"cityHealth": 30,
+		"cost": 80,
+		"hurryCostModifier": 40,
+		"maintenance": 0
+	}
+]
