@@ -1,0 +1,30 @@
+[
+	{
+		"name": "Taltug",
+		"leaderName": "Chief Tilitluk",
+		"adjective": ["Taltugmen"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "May the blessings of heaven be upon you, O great Nebuchadnezzar, father of mighty and ancient Babylon! Young was the world when Sargon built Babylon some five thousand years ago, long did it grow and prosper, gaining its first empire the eighteenth century BC, under godlike Hammurabi, the giver of law. Although conquered by the Kassites and then by the Assyrians, Babylon endured, emerging phoenix-like from its ashes of destruction and regaining its independence despite its many enemies. Truly was Babylon the center of arts and learning in the ancient world. O Nebuchadnezzar, your empire endured but a short time after your death, falling to the mighty Persians, and then to the Greeks, until the great city was destroyed by 141 BC.",
+		"startIntroPart2": "But is Babylon indeed gone forever, great Nebuchadnezzar? Your people look to you to bring the empire back to life once more. Will you accept the challenge? Will you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "Forgive me, but our needs has pushed us to this...",
+		"attacked": "What have we done to you, monster!?",
+		"defeated": "An unwanted calm has washed over my homeland...",
+		"introduction": "Greetings, I hope you aren't bothered by the cold.",
+		
+		"neutralHello": "Are you cold, my guest?",
+		"hateHello": "Your heart is as cold as the arid tundra!",
+		
+		"tradeRequest": "A simple transaction that you might accept, I hope?",
+				
+		"outerColor": [104,169,255],
+		"innerColor": [0,5,38],
+		"unique": "POPULATION_GROWTH",
+		"cities": ["Vriggirt","Nutog","Gotgri","Lizzoth","Zitzutzar","Rurbragkar","Kratgin Un","Tregkiz Ug","Un Thishbirt","Tuz Lulgre",
+			"Tuggog","Lebith","Khurruth","Atrol","Bruzeggugh","Bagvagvig","Togog Rag","Immot Kreth","Bat Zrugkuth","Grut Krugnun",
+			"Oshnogh","Keshbart","Turzi","Icrar","Ettatrirt","Gotzorkath","Buzzikh Il","Grurzo Egh","Gral Tartragh","Uth Kerog",
+			"Brogoz","Kozokh","Lottugh","Zorkrugh","Gruzzerkugh","Ilburbrig","Vizzog Nurt","Britgret Khurt","Tar Artrogh","Grolgigh"]
+	}
+]
